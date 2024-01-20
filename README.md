@@ -1,4 +1,3 @@
-
 ### Hello there! ✋
 ### I'm Hgenius75, 
 an enthusiast diving into the fascinating world of AI image generation. Enjoer of creating AI-generated images 😎.
